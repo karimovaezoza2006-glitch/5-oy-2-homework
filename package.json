@@ -2,5 +2,25 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.1.16",
     "tailwindcss": "^4.1.16"
-  }
+  },
+  "name": "5-oy-2-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karimovaezoza2006-glitch/5-oy-2-homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karimovaezoza2006-glitch/5-oy-2-homework/issues"
+  },
+  "homepage": "https://github.com/karimovaezoza2006-glitch/5-oy-2-homework#readme"
 }

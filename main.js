@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', function () {
       if (window.feather) { feather.replace(); }
       if (window.AOS) { AOS.init({ duration: 450, easing: 'ease-out-cubic', once: true }); }
@@ -166,3 +167,4 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Avtomatik slayd (har 3 sekundda)
     setInterval(() => nextBtn.click(), 3000);
+    
